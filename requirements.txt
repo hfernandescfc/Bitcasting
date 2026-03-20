@@ -1,0 +1,11 @@
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.5
+scipy>=1.14
+matplotlib>=3.9
+seaborn>=0.13
+xgboost>=2.1
+lightgbm>=4.5
+scikit-posthocs>=0.9
+jupyter>=1.1
+notebook>=7.2
